@@ -1,5 +1,5 @@
 This code is a demo of the algorithms in 
-"Wen, Zou, Ying, Liu, Efficient Global Outlier Removal for Large Scale Multiview Reconstruction, 2018"
+"Wen, Zou, Ying, Liu, Efficient Outlier Removal for Large Scale Global Structure-from-Motion, 2018"
 
 This code is modified from that of Carl Olsson at http://www.maths.lth.se/matematiklth/personal/calle/,
 "Olsson, Eriksson, Hartley, Outlier Removal using Duality, CVPR2010".
